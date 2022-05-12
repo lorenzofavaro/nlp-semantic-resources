@@ -48,7 +48,7 @@
                 "Manner": "manner.n.02",
                 "Time": "'time.n.01'",
                 "Purpose": "purpose.n.01",
-                "Duration": "duration.n.02",
+                "Duration": "duration.n.02"
             },
             "lexical_units_synsets": {
                 "bend.v": "bend.v.01",
@@ -107,7 +107,7 @@
                 "Manner": "manner.n.01"
             },
             "lexical_units_synsets": {
-                "handcuff.v": "manacle.v.01",
+                "handcuff.v": "manacle.v.01"
             }
         }
     ]
