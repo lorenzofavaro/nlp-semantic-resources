@@ -32,7 +32,6 @@
                 "Descriptor": "form.n.01"
             },
             "lexical_units_synsets": {
-                "economic.n": "",
                 "economic.a": "economic.a.01"
             }
         },
@@ -46,7 +45,7 @@
                 "Degree": "degree.n.01",
                 "Depictive": "delineative.s.01",
                 "Manner": "manner.n.02",
-                "Time": "'time.n.01'",
+                "Time": "time.n.01",
                 "Purpose": "purpose.n.01",
                 "Duration": "duration.n.02"
             },
@@ -98,7 +97,7 @@
             "elements_synsets": {
                 "Agent": "agentive_role.n.01",
                 "Instrument": "instrument.n.01",
-                "Patient": "'affected_role.n.01'",
+                "Patient": "affected_role.n.01",
                 "Means": "means.n.02",
                 "Purpose": "purpose.n.01",
                 "Time": "time.n.01",
