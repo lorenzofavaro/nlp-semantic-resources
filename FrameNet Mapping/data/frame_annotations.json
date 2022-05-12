@@ -1,0 +1,114 @@
+{
+    "Favaro": [
+        {
+            "id": 507,
+            "name": "Court_examination",
+            "synset": "interrogation.n.03",
+            "elements_synsets": {
+                "Questioner": "inquirer.n.01",
+                "Witness": "witness.n.05",
+                "Topic": "subject.n.01",
+                "Time": "time.n.01",
+                "Place": "topographic_point.n.01",
+                "Manner": "manner.n.01",
+                "Purpose": "purpose.n.01",
+                "Means": "means.n.02",
+                "Duration": "duration.n.01"
+            },
+            "lexical_units_synsets": {
+                "examine.v": "probe.v.01",
+                "cross.n": "cross-examination.n.01",
+                "cross-examination.n": "cross-examination.n.01",
+                "examination.n": "probe.v.01"
+            }
+        },
+        {
+            "id": 1572,
+            "name": "Economy",
+            "synset": "economy.n.01",
+            "elements_synsets": {
+                "Economy": "economy.n.01",
+                "Domain": "sphere.n.01",
+                "Descriptor": "form.n.01"
+            },
+            "lexical_units_synsets": {
+                "economic.n": "",
+                "economic.a": "economic.a.01"
+            }
+        },
+        {
+            "id": 18,
+            "name": "Posture",
+            "synset": "position.n.04",
+            "elements_synsets": {
+                "Agent": "agentive_role.n.01",
+                "Location": "location.n.01",
+                "Degree": "degree.n.01",
+                "Depictive": "delineative.s.01",
+                "Manner": "manner.n.02",
+                "Time": "'time.n.01'",
+                "Purpose": "purpose.n.01",
+                "Duration": "duration.n.02",
+            },
+            "lexical_units_synsets": {
+                "bend.v": "bend.v.01",
+                "crouch.v": "crouch.v.01",
+                "hunch.v": "hunch.v.01",
+                "huddle.v": "huddle.v.02",
+                "kneel.v": "kneel.v.01",
+                "lean.v": "lean.v.01",
+                "lie.v": "lie.v.02",
+                "sit.v": "sit.v.01",
+                "slouch.v": "slump.v.01",
+                "sprawl.v": "sprawl.v.01",
+                "squat.v": "squat.v.01",
+                "stand.v": "stand.v.01",
+                "stoop.v": "crouch.v.01",
+                "seated.a": "seated.a.01",
+                "posture.n": "position.n.04",
+                "stance.n": "stance.n.01",
+                "position.n": "position.n.04",
+                "cower.v": "huddle.v.02",
+                "shrink.v": "shrink.v.03"
+            }
+        },
+        {
+            "id": 2237,
+            "name": "Assemble",
+            "synset": "assemble.v.01",
+            "elements_synsets": {
+                "Individuals": "individual.n.02",
+                "Group": "group.n.01",
+                "Manner": "manner.n.01",
+                "Place": "topographic_point.n.01",
+                "Means": "means.n.01",
+                "Time": "time.n.01",
+                "Purpose": "purpose.n.01"
+            },
+            "lexical_units_synsets": {
+                "meet.v": "meet.v.02",
+                "assemble.v": "assemble.v.01",
+                "convene.v": "convene.v.01"
+            }
+        },
+        {
+            "id": 250,
+            "name": "Immobilization",
+            "synset": "immobilization.n.02",
+            "elements_synsets": {
+                "Agent": "agentive_role.n.01",
+                "Instrument": "instrument.n.01",
+                "Patient": "'affected_role.n.01'",
+                "Means": "means.n.02",
+                "Purpose": "purpose.n.01",
+                "Time": "time.n.01",
+                "Place": "topographic_point.n.01",
+                "Degree": "degree.n.01",
+                "Manner": "manner.n.01"
+            },
+            "lexical_units_synsets": {
+                "handcuff.v": "manacle.v.01",
+            }
+        }
+    ]
+}
