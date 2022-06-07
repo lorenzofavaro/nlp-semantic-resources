@@ -109,5 +109,128 @@
                 "handcuff.v": "manacle.v.01"
             }
         }
+    ],
+    "Senese": [
+        {
+            "id": 330,
+            "name": "Part_edge",
+            "synset": "part.n.01",
+            "elements_synsets": {
+                "Orientation": "orientation.n.01",
+                "Whole": "whole.n.01",
+                "Part": "part.n.02"
+            },
+            "lexical_units_synsets": {
+                "edge.n": "edge.n.06"
+            }
+        },
+        {
+            "id": 339,
+            "name": "Preserving",
+            "synset": "preserve.v.04",
+            "elements_synsets": {
+                "Medium": "medium.n.06",
+                "Instrument": "instrument.n.01",
+                "Means": "means.n.01",
+                "Manner": "manner.n.02",
+                "Place": "place.n.13",
+                "Time": "time.n.01",
+                "Purpose": "function.n.02",
+                "Result": "consequence.n.01",
+                "Duration": "duration.n.01",
+                "Depictive": "delineative.s.01",
+                "Degree": "degree.n.01"
+            },
+            "lexical_units_synsets": {
+                "mummify.v": "mummify.v.01",
+                "pickle.v": "pickle.n.01",
+                "embalm.v": "embalm.v.01",
+                "salt.v": "salt.v.04",
+                "cure.v": "cure.v.02",
+                "preservation.n": "preservation.n.03",
+                "can.v": "can.v.01",
+                "preserve.v": "preserve.v.04",
+                "embalming.n": "embalm.v.01",
+                "dry.v": "dry.v.01"
+            }
+        },
+        {
+            "id": 2007,
+            "name": "Attempt_obtain_food_scenario",
+            "synset": "obtain.v.01",
+            "elements_synsets": {
+                "Seeker": "seeker.n.01",
+                "Food": "food.n.02",
+                "Instrument": "instrument.n.02",
+                "Duration": "duration.n.01",
+                "Manner": "manner.n.01",
+                "Means": "means.n.02",
+                "Place": "topographic_point.n.01",
+                "Time": "time.n.01",
+                "Frequency": "frequency.n.03",
+                "Degree": "degree.n.01",
+                "Ground": "ground.n.08",
+                "Particular_iteration": "iteration.n.03"
+            },
+            "lexical_units_synsets": {
+                "subsistence.n": "subsistence.n.02"
+            }
+        },
+        {
+            "id": 1420,
+            "name": "Getting_up",
+            "synset": "get.v.03",
+            "elements_synsets": {
+                "Bed": "bed.n.01",
+                "Time": "clock.v.01",
+                "Purpose": "purpose.n.01",
+                "Manner": "manner.n.01",
+                "New_situation": "situation.n.02",
+                "Circumstances": "context.n.02",
+                "Duration_of_final_state": "duration.n.01",
+                "Place": "position.n.01"
+            },
+            "lexical_units_synsets": {
+                "rise.v": "get_up.v.02",
+                "get up.v": "get_up.v.02"
+            }
+        },
+        {
+            "id": 264,
+            "name": "Sleep",
+            "synset": "sleep.n.01",
+            "elements_synsets": {
+                "Sleeper": "sleeper.n.01",
+                "Duration": "duration.n.01",
+                "Time": "time.n.01",
+                "Place": "locate.v.03",
+                "Degree": "degree.n.01",
+                "Manner": "manner.n.01"
+            },
+            "lexical_units_synsets": {
+                "nap.v": "nap.v.01",
+                "doze.v": "snooze.v.01",
+                "snooze.v": "nap.v.01",
+                "catnap.v": "nap.v.01",
+                "slumber.v": "sleep.v.01",
+                "hibernate.v": "hibernate.v.01",
+                "kip.v": "sleep.v.01",
+                "drowse.v": "drowse.v.02",
+                "sleep.v": "sleep.v.01",
+                "shut-eye.n": "shuteye.n.01",
+                "forty winks.n": "forty.n.01",
+                "doze.n": "doze.n.01",
+                "catnap.n": "nap.n.04",
+                "drowse.n": "doze.n.01",
+                "hibernation.n": "hibernation.n.01",
+                "kip.n": "kip.n.01",
+                "nap.n": "sleep.n.03",
+                "sleep [event].n": "sleep.n.01",
+                "slumber.n": "slumber.n.02",
+                "snooze.n": "nap.n.04",
+                "asleep.n": "sleep.n.03",
+                "unconscious.a": "unconscious.a.01"
+            }
+        }
     ]
 }
