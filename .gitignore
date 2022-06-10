@@ -12,9 +12,6 @@ build/
 develop-eggs/
 dist/
 downloads/
-**/data/*.txt
-**/data/docs/*.txt
-**/data/*.csv
 eggs/
 .eggs/
 .idea/
