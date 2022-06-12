@@ -74,16 +74,14 @@ We used two relevance criteria to select what to keep and what to delete, based 
 These phrases can be found automatically by assigning a score to a phrase. The score of a sentence increases if it contains bonus phrases; decreases if it contains stigma phrase
 
 The topic can be referred to as a (set of) NASARI vector(s):
-- $ vt1 = \lbrack{term_1{\textunderscore}score, term_2{\textunderscore}score, …, term_{10}{\textunderscore}score}\rbrack $
-- $ vt2 = \lbrack{term_1{\textunderscore}score, term_2{\textunderscore}score, …, term_{10}{\textunderscore}score}\rbrack $
+- $ v_1 = \lbrack{term_1{\textunderscore}score, term_2{\textunderscore}score, …, term_{10}{\textunderscore}score}\rbrack $
+- $...$
+- $ v_n = \lbrack{term_1{\textunderscore}score, term_2{\textunderscore}score, …, term_{10}{\textunderscore}score}\rbrack $
 
 We determined the context, by collecting the vectors of terms herein. Then, retain paragraphs whose sentences contain the most salient terms, based on
 the Weighted Overlap:
 
-
-
 $WO(v_1, v_2) = \frac{\sum_{q \in O}(rank(q, v_1) + rank(q, v_2))^{-1} } {\sum_{i=1}^{|O|} (2i)^{-1}}$
-
 
 Finally, we evaluated our summary through two metrics:
  - [BLEU](https://en.wikipedia.org/wiki/BLEU) (BiLingual Evaluation Understudy)
