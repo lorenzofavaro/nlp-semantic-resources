@@ -80,7 +80,10 @@ The topic can be referred to as a (set of) NASARI vector(s):
 We determined the context, by collecting the vectors of terms herein. Then, retain paragraphs whose sentences contain the most salient terms, based on
 the Weighted Overlap:
 
-$WO(v_1, v_2) = \frac{\sum_{q∈O}(rank(q, v_1) + rank(q, v_2))^{-1} } {\sum_{i=1}^{|O|}(2i)^{-1}}$
+
+\begin{align}  
+WO(v_1, v_2) = \frac{\sum_{q \in O}(rank(q, v_1) + rank(q, v_2))^{-1} } {\sum_{i=1}^{|O|} ((2i)^{-1})} 
+\end{align}
 
 Finally, we evaluated our summary through two metrics:
  - [BLEU](https://en.wikipedia.org/wiki/BLEU) (BiLingual Evaluation Understudy)
