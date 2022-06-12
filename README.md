@@ -82,7 +82,7 @@ the Weighted Overlap:
 
 
 
-$WO(v_1, v_2) = \frac{\sum_{q \in O}(rank(q, v_1) + rank(q, v_2))^{-1} } {\sum_{i=1}^{|O|} ((2i)^{-1})}$
+$WO(v_1, v_2) = \frac{\sum_{q \in O}(rank(q, v_1) + rank(q, v_2))^{-1} } {\sum_{i=1}^{|O|} (2i)^{-1}}$
 
 
 Finally, we evaluated our summary through two metrics:
