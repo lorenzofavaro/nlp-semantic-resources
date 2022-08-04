@@ -1,5 +1,5 @@
 
-# nlp-semantics-resources
+# nlp-semantic-resources
 This project has been created for the exam of Tecnologie del Linguaggio Naturale (NLP) of the Master's Degree course at the University of Turin. This is the second part of it.
 
 ## Setup
